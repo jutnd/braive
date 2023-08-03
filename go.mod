@@ -3,7 +3,7 @@ module github.com/jutnd/braive
 go 1.20
 
 require (
-	github.com/jutnd/devkit v1.56.15
+	github.com/jutnd/devkit v1.56.11
 	github.com/kevinburke/go-bindata v3.24.0+incompatible
 )
 
