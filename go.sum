@@ -10,8 +10,8 @@ github.com/ilya1st/rotatewriter v0.0.0-20171126183947-3df0c1a3ed6d h1:OGuVAVny/9
 github.com/ilya1st/rotatewriter v0.0.0-20171126183947-3df0c1a3ed6d/go.mod h1:S1q6q+21PRGd0WRX+fHjQ+TOe3CgpSv7zgCWnZcbxCs=
 github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7SrtAPJorKK0C8=
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
-github.com/jutnd/devkit v1.56.15 h1:boOxdYqoAnGscRK817iBKCDejfEC0gd8i3Zy5EoqsRY=
-github.com/jutnd/devkit v1.56.15/go.mod h1:qepGMI4Xh7kn0koY641awWZPRQh9DvHI8aDiInZjcAU=
+github.com/jutnd/devkit v1.56.11 h1:FLXOIHnbeeqKa9IsK4tKc1I5uvU4xlMud/fU8lwKxqQ=
+github.com/jutnd/devkit v1.56.11/go.mod h1:qepGMI4Xh7kn0koY641awWZPRQh9DvHI8aDiInZjcAU=
 github.com/kevinburke/go-bindata v3.24.0+incompatible h1:qajFA3D0pH94OTLU4zcCCKCDgR+Zr2cZK/RPJHDdFoY=
 github.com/kevinburke/go-bindata v3.24.0+incompatible/go.mod h1:/pEEZ72flUW2p0yi30bslSp9YqD9pysLxunQDdb2CPM=
 github.com/mattn/go-colorable v0.1.12 h1:jF+Du6AlPIjs2BiUiQlKOX0rt3SujHxPnksPKZbaA40=
